@@ -1,2 +1,2 @@
 # testing
-this is a test repo, will be deleted soon
+I am editing the README file. Adding some more details about the project description.
